@@ -1,7 +1,7 @@
 set background=dark
 hi clear
 
-let g:colors_name = "nodic"
+let g:colors_name = "nordic"
 
 hi Boolean gui=NONE term=NONE cterm=NONE guifg=#b48ead guibg=NONE ctermfg=139 ctermbg=NONE
 hi Character gui=NONE term=NONE cterm=NONE guifg=#a3be8c guibg=NONE ctermfg=250 ctermbg=NONE
